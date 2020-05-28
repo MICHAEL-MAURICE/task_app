@@ -1,15 +1,8 @@
 # taskapp
 this app to write your daily tasks
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/52583744/83102530-ff89cd80-a0b4-11ea-9567-23add5603b4b.jpeg)
+![2](https://user-images.githubusercontent.com/52583744/83102537-00226400-a0b5-11ea-9e27-a8e115789c36.jpeg)
+![3](https://user-images.githubusercontent.com/52583744/83102538-00bafa80-a0b5-11ea-8d95-628650accde1.jpeg)
+![4](https://user-images.githubusercontent.com/52583744/83102539-01539100-a0b5-11ea-848d-e73bfda4e7a3.jpeg)
+![5](https://user-images.githubusercontent.com/52583744/83102540-01539100-a0b5-11ea-84bd-3040f36c5727.jpeg)
