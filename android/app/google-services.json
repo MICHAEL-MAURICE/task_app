@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992351690146",
+    "firebase_url": "https://task-app-fddc5.firebaseio.com",
+    "project_id": "task-app-fddc5",
+    "storage_bucket": "task-app-fddc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992351690146:android:d21523e22315219d7a26fb",
+        "android_client_info": {
+          "package_name": "go.mic.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992351690146-roh4327vli2quiqmcfe9s2gdpjjac7es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqftGL9Ex5GgA3yK2s7CY2DpfDsw8l6fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992351690146-roh4327vli2quiqmcfe9s2gdpjjac7es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

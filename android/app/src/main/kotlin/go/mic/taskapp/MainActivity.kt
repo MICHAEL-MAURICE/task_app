@@ -1,0 +1,6 @@
+package go.mic.taskapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
