@@ -1,6 +1,5 @@
 # taskapp
-
-A new Flutter application.
+this app to write your daily tasks
 
 ## Getting Started
 
